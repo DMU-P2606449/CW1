@@ -51,7 +51,7 @@ h2{
 
 video {
   margin: 10px;
-  width: 100%;
+  width: 50%;
   padding: 5px;
   box-sizing: border-box;
   font-family:monospace;
@@ -64,7 +64,7 @@ video {
 .floatfix {
   margin: auto;
   max-width: 1500px;
-  width: 80%;
+  width: 50%;
   padding: 5px;
   box-sizing: border-box;
   font-family:monospace;
