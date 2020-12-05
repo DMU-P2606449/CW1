@@ -51,7 +51,7 @@ h2{
 
 video {
   margin: 10px;
-  width: 50%;
+  width: 100%;
   padding: 5px;
   box-sizing: border-box;
   font-family:monospace;
@@ -64,7 +64,7 @@ video {
 .floatfix {
   margin: auto;
   max-width: 1500px;
-  width: 80%;
+  width: 100%;
   padding: 5px;
   box-sizing: border-box;
   font-family:monospace;
@@ -84,7 +84,7 @@ p, audio {
   margin: auto;
   max-width: 1500px;
   font-family:monospace;
-  width: 50%;
+  width: 100%;
   box-sizing: border-box;
   font-size: 1.2em;
    align-items: center;
