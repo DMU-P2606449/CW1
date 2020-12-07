@@ -8,11 +8,6 @@ body {
   text-align: center;
 }
 
-header {
-  position: fixed;
-  text-align: left;
-}
-
 h1 {
   padding: 20px;
   margin: auto;
